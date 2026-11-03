@@ -8,8 +8,6 @@ node_modules/
 out/
 
 # env
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -42,7 +40,6 @@ coverage/
 
 # editor
 .idea/
-.vscode/settings.json
 
 # os
 Thumbs.db
@@ -59,3 +56,4 @@ vrickish.md
 issue-259-description.md
 issue-260-description.md
 issue-259-workflow.ipynb
+config.bat
